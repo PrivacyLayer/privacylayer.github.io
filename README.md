@@ -2,9 +2,9 @@
 To bring privacy in dystopian world
 
 ### Tor relays
-Relay | Fingerprint | Location
---- | --- | ---
-khasan | [CD80ACE5A9FB0BFE0237BD4DED6692D1BBBF4793](https://metrics.torproject.org/rs.html#search/CD80ACE5A9FB0BFE0237BD4DED6692D1BBBF4793) | [BlazingFast](https://blazingfast.io/), Portugal
+| Relay         | Fingerprint   | Location  |
+| ------------- | ------------- | --------- |
+| khasan      | [CD80ACE5A9FB0BFE0237BD4DED6692D1BBBF4793](https://metrics.torproject.org/rs.html#search/CD80ACE5A9FB0BFE0237BD4DED6692D1BBBF4793) | [BlazingFast (AS47674)](https://blazingfast.io/), Portugal |
 
 ### Contact
 Please keep in mind [Tor relays](https://www.eff.org/pages/what-tor-relay) are not responsible for user traffic. Any questions regarding our services should be sent via email: **contact [at] privacylayer [dot] xyz**
