@@ -5,7 +5,7 @@ To bring privacy in dystopian world
 
 | Relay         | Fingerprint   | Location  |
 | ------------- | ------------- | --------- |
-| khasan      | [CD80ACE5A9FB0BFE0237BD4DED6692D1BBBF4793](https://metrics.torproject.org/rs.html#search/CD80ACE5A9FB0BFE0237BD4DED6692D1BBBF4793) | [BlazingFast (AS47674)](https://blazingfast.io/), Portugal |
+| terek      | [3BC7F8A01371FF2C0AD9865B18C9BCA94C56A6EA](https://metrics.torproject.org/rs.html#search/3BC7F8A01371FF2C0AD9865B18C9BCA94C56A6EA) | [ab stract ltd (AS39287)](https://njal.la/), Sweden |
 
 ### Contact
 Please keep in mind [Tor relays](https://www.eff.org/pages/what-tor-relay) are not responsible for user traffic. Any questions regarding our services should be sent via email: **contact [at] privacylayer [dot] xyz**
