@@ -5,7 +5,8 @@ To bring privacy in dystopian world
 
 | Relay         | Fingerprint   | Location  |
 | ------------- | ------------- | --------- |
-| terek      | [3BC7F8A01371FF2C0AD9865B18C9BCA94C56A6EA](https://metrics.torproject.org/rs.html#search/3BC7F8A01371FF2C0AD9865B18C9BCA94C56A6EA) | [ab stract ltd (AS39287)](https://njal.la/), Sweden |
+| terek      | [3BC7F8A01371FF2C0AD9865B18C9BCA94C56A6EA](https://metrics.torproject.org/rs.html#search/3BC7F8A01371FF2C0AD9865B18C9BCA94C56A6EA) | [ab stract LTD (AS39287)](https://njal.la/), Sweden |
+| sunzha      | [B20F925E87F4382D04D67A4F8923E25B6F19B269](https://metrics.torproject.org/rs.html#search/B20F925E87F4382D04D67A4F8923E25B6F19B269) | [Stark Industries Solutions LTD (AS44477)](https://pq.hosting/), Serbia |
 
 ### Contact
 Please keep in mind [Tor relays](https://www.eff.org/pages/what-tor-relay) are not responsible for user traffic. Any questions regarding our services should be sent via email: **contact&nbsp;[at]&nbsp;privacylayer&nbsp;[dot]&nbsp;xyz**
